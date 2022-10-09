@@ -71893,7 +71893,7 @@ m=A.d_(1e18)
 n=n.cN(0)
 m=m.cN(0)
 o=A.ab(A.ae(),o)
-m=n/m*48e3
+m=n/m*43200
 A.ay("NextProduction:"+A.h(m))
 o.ok=m
 q.c.$0()
