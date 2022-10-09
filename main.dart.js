@@ -20128,7 +20128,7 @@ Vl:function Vl(a){this.a=a},
 l6(a,b,c,d,e){return A.avP(a,b,c,d,e)},
 avP(a,b,c,d,e){var s=0,r=A.M(t.z),q=1,p,o,n,m,l,k,j
 var $async$l6=A.N(function(f,g){if(f===1){p=g
-s=q}while(true)switch(s){case 0:$.an=1
+s=q}while(true)switch(s){case 0:$.ao=1
 A.bH("")
 q=3
 o=A.Wn(a,b,new A.lS(J.ajV(("ethereum" in window.window||"BinanceChain" in window.window?new A.rC(new ethers.providers.Web3Provider(t.sC.a(A.cU()).a)):null).a),t.CX))
@@ -20144,7 +20144,7 @@ case 8:s=10
 return A.a5(J.auY(o,c),$async$l6)
 case 10:n=g
 case 7:e.$0()
-$.an=0
+$.ao=0
 l=$.aY()
 l.b6()
 l.b1(!0)
@@ -20156,7 +20156,7 @@ j=p
 m=A.ap(j)
 A.ay(c+":"+A.h(m))
 new A.e2().dl(0,"error:"+A.h(J.bm(m)))
-$.an=0
+$.ao=0
 l=$.aY()
 l.b6()
 l.b1(!0)
@@ -20170,7 +20170,7 @@ return A.L($async$l6,r)},
 DR(a,b,c,d,e,f){return A.avQ(a,b,c,d,e,f)},
 avQ(a,b,c,d,e,f){var s=0,r=A.M(t.z),q=1,p,o,n,m,l,k,j
 var $async$DR=A.N(function(g,h){if(g===1){p=h
-s=q}while(true)switch(s){case 0:$.an=1
+s=q}while(true)switch(s){case 0:$.ao=1
 A.bH("")
 q=3
 o=A.Wn(a,b,new A.lS(J.ajV(("ethereum" in window.window||"BinanceChain" in window.window?new A.rC(new ethers.providers.Web3Provider(t.sC.a(A.cU()).a)):null).a),t.CX))
@@ -20180,7 +20180,7 @@ s=6
 return A.a5(J.av_(o,c,e,new A.MQ({value:l,gasLimit:null,gasPrice:null,maxFeePerGas:null,maxPriorityFeePerGas:null,nonce:null})),$async$DR)
 case 6:n=h
 f.$0()
-$.an=0
+$.ao=0
 l=$.aY()
 l.b6()
 l.b1(!0)
@@ -20192,7 +20192,7 @@ j=p
 m=A.ap(j)
 A.ay(c+":"+A.h(m))
 new A.e2().dl(0,"error:"+A.h(J.bm(m)))
-$.an=0
+$.ao=0
 l=$.aY()
 l.b6()
 l.b1(!0)
@@ -20206,18 +20206,18 @@ return A.L($async$DR,r)},
 d2(a,b,c,d){return A.avO(a,b,c,d)},
 avO(a,b,c,d){var s=0,r=A.M(t.z),q,p,o,n,m
 var $async$d2=A.N(function(e,f){if(e===1)return A.J(f,r)
-while(true)switch(s){case 0:$.an=1
+while(true)switch(s){case 0:$.ao=1
 A.bH("")
 try{q=A.axK(a)
 p=A.Wn(b,c,q)
 d.$1(p)
-$.an=0
+$.ao=0
 n=$.aY()
 n.b6()
 n.b1(!0)}catch(l){o=A.ap(l)
 A.ay("busdCall:"+A.h(o))
 new A.e2().dl(0,"error:"+A.h(J.bm(o)))
-$.an=0
+$.ao=0
 n=$.aY()
 n.b6()
 n.b1(!0)}return A.K(null,r)}})
@@ -20225,7 +20225,7 @@ return A.L($async$d2,r)},
 uv(a,b,c,d,e){return A.avN(a,b,c,d,e)},
 avN(a,b,c,d,e){var s=0,r=A.M(t.z),q=1,p,o,n,m,l,k,j,i,h
 var $async$uv=A.N(function(f,g){if(f===1){p=g
-s=q}while(true)switch(s){case 0:$.an=1
+s=q}while(true)switch(s){case 0:$.ao=1
 A.bH("")
 q=3
 k=J.ajV(("ethereum" in window.window||"BinanceChain" in window.window?new A.rC(new ethers.providers.Web3Provider(t.sC.a(A.cU()).a)):null).a)
@@ -20238,7 +20238,7 @@ s=6
 return A.a5(o.a.jQ(0,"approve",[b,k.j(0)]),$async$uv)
 case 6:m=g
 A.ay("authorization:"+("chain\u6388\u6743\u540e:"+J.auJ(m.a)))
-$.an=0
+$.ao=0
 k=$.aY()
 k.b6()
 k.b1(!0)
@@ -20251,7 +20251,7 @@ h=p
 l=A.ap(h)
 A.ay("authorization:"+A.h(l))
 new A.e2().dl(0,"error:"+A.h(J.bm(l)))
-$.an=0
+$.ao=0
 k=$.aY()
 k.b6()
 k.b1(!0)
@@ -20338,7 +20338,7 @@ _.c3$=c
 _.ds$=d
 _.dt$=e
 _.kp$=f},
-ao(){var s=t.Wo
+an(){var s=t.Wo
 s=new A.n1(A.b([],t.EH),A.f4(t.X,t.xW),new A.i1(s),new A.i1(s),!1,!1)
 s.ph()
 return s},
@@ -20549,7 +20549,7 @@ ax2(a,b){A.d2("https://nodes.halo.land/",u.z,A.b([A.dl("invites(address)","addre
 ax_(){A.d2("https://nodes.halo.land/",u.z,A.b([A.dl("addressToId(address)","uint256")],t.s),new A.ZF())},
 awS(a){A.ax2(a,new A.Zo())},
 Zt(a,b,c){var s=A.b([A.dl("idToAddress(uint256)","address")],t.s)
-$.an=1
+$.ao=1
 A.bH("")
 A.d2("https://nodes.halo.land/",u.z,s,new A.Zu(b,c))},
 mN(a,b){A.d2("https://nodes.halo.land/",u.Z,A.b([A.dl("staked(address)","uint256,uint256,uint256,uint256,uint256,uint256,uint256,uint256,bool")],t.s),new A.ZB(a,b))},
@@ -20557,15 +20557,15 @@ awW(a,b,c){A.ay("getLevels:"+("getLevels:level:"+a))
 A.d2("https://nodes.halo.land/",u.Z,A.b([A.dl("levels(uint256)","uint256,uint256,uint256,uint256,uint256,uint256,uint256,uint256,uint256,uint256,uint256,uint256")],t.s),new A.Zw(a,!1,c))},
 aoi(a,b,c){A.l6(u.Z,A.b([A.pb("pledge(address,uint256)",null)],t.s),"pledge",[a,b],new A.ZN(c))},
 awT(a){var s=A.b([A.dl("balanceOf(address)","uint256")],t.s)
-$.an=1
+$.ao=1
 A.bH("")
 A.d2("https://nodes.halo.land/",u.r,s,new A.Zp(a))},
 ax3(a,b,c){A.uv(u.r,u.Z,new A.ZJ(c),!1,b)},
 awZ(a){var s=A.b([A.dl("tokenOfOwnerByIndex(address,uint256)","uint256")],t.s)
-$.an=1
+$.ao=1
 A.bH("")
 A.d2("https://nodes.halo.land/",u.r,s,new A.ZD(a))},
-aof(){A.ay("getReward:"+("getReward:status:"+B.d.j(A.ah(A.ao(),t.G).id)))
+aof(){A.ay("getReward:"+("getReward:status:"+B.d.j(A.ah(A.an(),t.G).id)))
 A.d2("https://nodes.halo.land/",u.Z,A.b([A.dl("reward(address)","uint256")],t.s),new A.ZA())},
 awV(){A.d2("https://nodes.halo.land/",u.Z,A.b([A.dl("earnings(address)","uint256")],t.s),new A.Zr())},
 awU(a){A.d2("https://nodes.halo.land/",u.Z,A.b([A.dl("earnings(address)","uint256")],t.s),new A.Zs(a))},
@@ -66921,7 +66921,7 @@ $1(a){var s=0,r=A.M(t.P),q=this,p
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
 while(true)switch(s){case 0:if(A.h(a)===u.E)new A.e2().dl(0,"error")
 else{A.eq(q.b,!1).eD("cancel")
-p=A.ah(A.ao(),t.G)
+p=A.ah(A.an(),t.G)
 A.h(a)
 p.bV(0)
 q.a.as.$1(a)}return A.K(null,r)}})
@@ -66986,21 +66986,21 @@ A.ax3(s,a,new A.a2Y(s,a))},
 $S:6}
 A.a2Y.prototype={
 $0(){A.ay("\u62b5\u62bc")
-$.an=1
+$.ao=1
 A.bH("")
 A.cJ(B.b5,new A.a2X(this.a,this.b),t.P)},
 $S:1}
 A.a2X.prototype={
 $0(){var s,r,q
-$.an=0
+$.ao=0
 s=$.aY()
 s.b6()
 s.b1(!0)
 s=t.G
 r=this.a
 q=this.b
-if(B.d.j(A.ah(A.ao(),s).fr)==="0")new A.hc().uJ(r,new A.a2V(q,r))
-else A.Zt(r,""+A.ah(A.ao(),s).fr,new A.a2W(q,r))},
+if(B.d.j(A.ah(A.an(),s).fr)==="0")new A.hc().uJ(r,new A.a2V(q,r))
+else A.Zt(r,""+A.ah(A.an(),s).fr,new A.a2W(q,r))},
 $S:1}
 A.a2V.prototype={
 $1(a){A.aoi(a,this.a,new A.a2U(this.b))},
@@ -67008,12 +67008,12 @@ $S:6}
 A.a2U.prototype={
 $0(){var s=this.a
 A.eq(s,!1).eD("cancel")
-$.an=1
+$.ao=1
 A.bH("")
 A.cJ(B.b5,new A.a2S(s),t.P)},
 $S:1}
 A.a2S.prototype={
-$0(){$.an=0
+$0(){$.ao=0
 var s=$.aY()
 s.b6()
 s.b1(!0)
@@ -67023,7 +67023,7 @@ A.a2W.prototype={
 $1(a){var s=0,r=A.M(t.P),q=this,p
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
 while(true)switch(s){case 0:if(A.h(a)===u.E)new A.e2().dl(0,"error")
-else{p=A.ah(A.ao(),t.G)
+else{p=A.ah(A.an(),t.G)
 A.h(a)
 p.bV(0)
 A.aoi(a,q.a,new A.a2T(q.b))}return A.K(null,r)}})
@@ -67032,12 +67032,12 @@ $S:5}
 A.a2T.prototype={
 $0(){var s=this.a
 A.eq(s,!1).eD("cancel")
-$.an=1
+$.ao=1
 A.bH("")
 A.cJ(B.b5,new A.a2R(s),t.P)},
 $S:1}
 A.a2R.prototype={
-$0(){$.an=0
+$0(){$.ao=0
 var s=$.aY()
 s.b6()
 s.b1(!0)
@@ -67057,7 +67057,7 @@ $0(){A.eq(this.a,!1).eD("cancel")},
 $S:0}
 A.r_.prototype={
 H(b2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7=null,a8=4294967295,a9=4281049238,b0=4285193427,b1=4282165664
-$.an=0
+$.ao=0
 s=$.aY()
 s.b6()
 s.b1(!0)
@@ -67080,7 +67080,7 @@ j=$.c().gh()
 i=A.co(B.J,B.U,a9,b0,1,1,10,0,0)
 h=A.bt(24,24,28,28)
 g=t.G
-j=A.aa(a7,A.b4("\u76f4\u63a8\u5546\u94fa\uff1a"+A.ah(A.ao(),g).ax,28,a8,!1),a7,a7,i,a7,a7,a7,h,j)
+j=A.aa(a7,A.b4("\u76f4\u63a8\u5546\u94fa\uff1a"+A.ah(A.an(),g).ax,28,a8,!1),a7,a7,i,a7,a7,a7,h,j)
 h=$.c()
 i=h.gh()
 h=h.a
@@ -67089,7 +67089,7 @@ h=A.aa(a7,a7,a7,a7,a7,20*(i/h.a),a7,a7,a7,a7)
 i=$.c().gh()
 f=A.co(B.J,B.U,a9,b0,1,1,10,0,0)
 e=A.bt(24,24,28,28)
-i=A.aa(a7,A.b4("\u76f4\u63a8\u7269\u4e1a\uff1a"+A.ah(A.ao(),g).ay,28,a8,!1),a7,a7,f,a7,a7,a7,e,i)
+i=A.aa(a7,A.b4("\u76f4\u63a8\u7269\u4e1a\uff1a"+A.ah(A.an(),g).ay,28,a8,!1),a7,a7,f,a7,a7,a7,e,i)
 e=$.c()
 f=e.gh()
 e=e.a
@@ -67098,7 +67098,7 @@ e=A.aa(a7,a7,a7,a7,a7,20*(f/e.a),a7,a7,a7,a7)
 f=$.c().gh()
 d=A.co(B.J,B.U,a9,b0,1,1,10,0,0)
 c=A.bt(24,24,28,28)
-f=A.aa(a7,A.b4("\u56e2\u961f\u5546\u94fa\uff1a"+A.ah(A.ao(),g).ch,28,a8,!1),a7,a7,d,a7,a7,a7,c,f)
+f=A.aa(a7,A.b4("\u56e2\u961f\u5546\u94fa\uff1a"+A.ah(A.an(),g).ch,28,a8,!1),a7,a7,d,a7,a7,a7,c,f)
 c=$.c()
 d=c.gh()
 c=c.a
@@ -67107,7 +67107,7 @@ c=A.aa(a7,a7,a7,a7,a7,20*(d/c.a),a7,a7,a7,a7)
 d=$.c().gh()
 b=A.co(B.J,B.U,a9,b0,1,1,10,0,0)
 a=A.bt(24,24,28,28)
-d=A.aa(a7,A.b4("\u56e2\u961f\u7269\u4e1a\uff1a"+A.ah(A.ao(),g).CW,28,a8,!1),a7,a7,b,a7,a7,a7,a,d)
+d=A.aa(a7,A.b4("\u56e2\u961f\u7269\u4e1a\uff1a"+A.ah(A.an(),g).CW,28,a8,!1),a7,a7,b,a7,a7,a7,a,d)
 a=$.c()
 b=a.gh()
 a=a.a
@@ -67116,7 +67116,7 @@ a=A.aa(a7,a7,a7,a7,a7,20*(b/a.a),a7,a7,a7,a7)
 b=$.c().gh()
 a0=A.co(B.J,B.U,a9,b0,1,1,10,0,0)
 a1=A.bt(24,24,28,28)
-b=A.aa(a7,A.b4("OAS\u5956\u52b1\uff1a"+A.pC(B.d.j(A.ah(A.ao(),g).p4))+" OAS",28,a8,!1),a7,a7,a0,a7,a7,a7,a1,b)
+b=A.aa(a7,A.b4("OAS\u5956\u52b1\uff1a"+A.pC(B.d.j(A.ah(A.an(),g).p4))+" OAS",28,a8,!1),a7,a7,a0,a7,a7,a7,a1,b)
 a1=$.c()
 a0=a1.gh()
 a1=a1.a
@@ -67125,7 +67125,7 @@ a1=A.aa(a7,a7,a7,a7,a7,20*(a0/a1.a),a7,a7,a7,a7)
 a0=$.c().gh()
 a2=A.co(B.J,B.U,a9,b0,1,1,10,0,0)
 a3=A.bt(24,24,28,28)
-a0=A.aa(a7,A.b4("USDT\u5956\u52b1\uff1a"+A.pC(B.d.j(A.ah(A.ao(),g).p3))+" USDT",28,a8,!1),a7,a7,a2,a7,a7,a7,a3,a0)
+a0=A.aa(a7,A.b4("USDT\u5956\u52b1\uff1a"+A.pC(B.d.j(A.ah(A.an(),g).p3))+" USDT",28,a8,!1),a7,a7,a2,a7,a7,a7,a3,a0)
 a3=$.c()
 a2=a3.gh()
 a3=a3.a
@@ -67134,7 +67134,7 @@ a3=A.aa(a7,a7,a7,a7,a7,20*(a2/a3.a),a7,a7,a7,a7)
 a2=$.c().gh()
 a4=A.co(B.J,B.U,a9,b0,1,1,10,0,0)
 a5=A.bt(24,24,28,28)
-a2=A.aa(a7,A.b4("OAS\u9500\u6bc1\u91cf\uff1a"+A.pC(B.d.j(A.ah(A.ao(),g).p1))+" OAS",28,a8,!1),a7,a7,a4,a7,a7,a7,a5,a2)
+a2=A.aa(a7,A.b4("OAS\u9500\u6bc1\u91cf\uff1a"+A.pC(B.d.j(A.ah(A.an(),g).p1))+" OAS",28,a8,!1),a7,a7,a4,a7,a7,a7,a5,a2)
 a5=$.c()
 a4=a5.gh()
 a5=a5.a
@@ -67144,7 +67144,7 @@ o=A.aa(a7,A.cG(A.b([k,j,h,i,e,f,c,d,a,b,a1,a0,a3,a2,A.aa(a7,a7,a7,a7,a7,42*(a4/a
 m=A.jD(b1,10,1)
 n=A.bt(32,59,28,28)
 l=A.bt(49,49,42,42)
-l=A.aa(a7,A.b4("\u5206\u4eab\u94fe\u63a5\uff1ahttps://oasworldido.github.io/#/ref="+A.ah(A.ao(),g).fx,28,a8,!1),a7,a7,m,a7,a7,n,l,a7)
+l=A.aa(a7,A.b4("\u5206\u4eab\u94fe\u63a5\uff1ahttps://oasworldido.github.io/#/ref="+A.ah(A.an(),g).fx,28,a8,!1),a7,a7,m,a7,a7,n,l,a7)
 n=A.bt(0,72,0,0)
 m=$.c()
 g=m.gh()
@@ -67161,7 +67161,7 @@ $0(){A.eq(this.a,!1).eD("cancel")},
 $S:0}
 A.a7I.prototype={
 $0(){var s,r,q,p=t.G
-if(B.d.j(A.ah(A.ao(),p).fx)==="0"){new A.e2().dl(0,"\u5206\u4eab\u7801\u9519\u8bef,\u8bf7\u5237\u65b0\uff01")
+if(B.d.j(A.ah(A.an(),p).fx)==="0"){new A.e2().dl(0,"\u5206\u4eab\u7801\u9519\u8bef,\u8bf7\u5237\u65b0\uff01")
 return}s=document
 r=s.createElement("textarea")
 q=s.body
@@ -67177,7 +67177,7 @@ B.n.bT(q,B.n.bG(q,"opacity"),"0","")
 q=r.style
 q.position="absolute"
 r.readOnly=!0
-r.value="https://oasworldido.github.io/#/ref="+A.ah(A.ao(),p).fx
+r.value="https://oasworldido.github.io/#/ref="+A.ah(A.an(),p).fx
 r.select()
 if(s.execCommand("copy"))new A.e2().dl(0,"\u590d\u5236\u6210\u529f!")
 B.WM.cZ(r)
@@ -67204,7 +67204,7 @@ h=i.gh()
 i=i.a
 if(i===$)A.a()
 g=t.G
-l=A.aa(a,A.c4(a,!1,106*(h/i.a),new A.bG("images/fz_lv"+A.ah(A.ao(),g).cx+".png"),129*(j/k.a)),a,a,m,a,a,n,l,a)
+l=A.aa(a,A.c4(a,!1,106*(h/i.a),new A.bG("images/fz_lv"+A.ah(A.an(),g).cx+".png"),129*(j/k.a)),a,a,m,a,a,n,l,a)
 n=$.c()
 m=n.gh()
 n=n.a
@@ -67218,11 +67218,14 @@ m=A.cG(A.b([l,n,A.c6(!1,!0,A.aa(a,A.b4("\u5347\u7ea7",24,a0,!1),a,a,k,a,a,a,m,a)
 k=$.c().gh()
 n=A.co(B.J,B.U,a1,a2,1,1,10,0,0)
 l=A.bt(15,15,18,18)
-if(A.ah(A.ao(),g).cx<=4)i="\u5f53\u524d\u7b49\u7ea7\uff1a\u5546\u94faS"+A.ah(A.ao(),g).cx
-else if(A.ah(A.ao(),g).cx===5)i="\u5f53\u524d\u7b49\u7ea7\uff1a\u7269\u4e1aE1"
-else if(A.ah(A.ao(),g).cx===6)i="\u5f53\u524d\u7b49\u7ea7\uff1a\u7269\u4e1aE2"
-else if(A.ah(A.ao(),g).cx===7)i="\u5f53\u524d\u7b49\u7ea7\uff1a\u7269\u4e1aE3"
-else i=A.ah(A.ao(),g).cx===8?"\u5f53\u524d\u7b49\u7ea7\uff1a\u5f00\u53d1\u5546X":""
+if(B.d.j(A.ah(A.an(),g).cx)==="1")i="\u5f53\u524d\u7b49\u7ea7\uff1a\u5546\u94faS1"
+else if(B.d.j(A.ah(A.an(),g).cx)==="2")i="\u5f53\u524d\u7b49\u7ea7\uff1a\u5546\u94faS2"
+else if(B.d.j(A.ah(A.an(),g).cx)==="3")i="\u5f53\u524d\u7b49\u7ea7\uff1a\u5546\u94faS3"
+else if(B.d.j(A.ah(A.an(),g).cx)==="4")i="\u5f53\u524d\u7b49\u7ea7\uff1a\u5546\u94faS4"
+else if(B.d.j(A.ah(A.an(),g).cx)==="5")i="\u5f53\u524d\u7b49\u7ea7\uff1a\u7269\u4e1aE1"
+else if(B.d.j(A.ah(A.an(),g).cx)==="6")i="\u5f53\u524d\u7b49\u7ea7\uff1a\u7269\u4e1aE2"
+else if(B.d.j(A.ah(A.an(),g).cx)==="7")i="\u5f53\u524d\u7b49\u7ea7\uff1a\u7269\u4e1aE3"
+else i=B.d.j(A.ah(A.an(),g).cx)==="8"?"\u5f53\u524d\u7b49\u7ea7\uff1a\u5f00\u53d1\u5546X":""
 k=A.aa(a,A.b4(i,28,a0,!1),a,a,n,a,a,a,l,k*0.4)
 l=$.c()
 n=l.gh()
@@ -67232,7 +67235,7 @@ l=A.aa(a,a,a,a,a,20*(n/l.a),a,a,a,a)
 n=$.c().gh()
 i=A.co(B.J,B.U,a1,a2,1,1,10,0,0)
 h=A.bt(15,15,18,18)
-n=A.aa(a,A.b4("\u4eca\u65e5\u76c8\u5229\uff1a"+A.pC(B.d.j(A.ah(A.ao(),g).db))+" OAS",28,a0,!1),a,a,i,a,a,a,h,n*0.4)
+n=A.aa(a,A.b4("\u4eca\u65e5\u76c8\u5229\uff1a"+A.pC(B.d.j(A.ah(A.an(),g).db))+" OAS",28,a0,!1),a,a,i,a,a,a,h,n*0.4)
 h=$.c()
 i=h.gh()
 h=h.a
@@ -67258,7 +67261,7 @@ if(o===$)A.a()
 o=A.aa(a,a,a,a,a,20*(f/o.a),a,a,a,a)
 f=A.jD(a3,10,1)
 c=A.bt(48,48,42,10)
-d=A.b4("\u5347\u7ea7\u6761\u4ef6\uff1a"+A.ah(A.ao(),g).k3+" OAS+"+A.ah(A.ao(),g).k4+"\u4e2a\u95e8\u5e97\u4e4b\u661f",28,a0,!1)
+d=A.b4("\u5347\u7ea7\u6761\u4ef6\uff1a"+A.ah(A.an(),g).k3+" OAS+"+A.ah(A.an(),g).k4+"\u4e2a\u95e8\u5e97\u4e4b\u661f",28,a0,!1)
 e=A.GA(A.aa(a,a,a,a,a,a,a,a,a,a),1)
 i=b.th()
 c=A.aa(a,A.eP(A.b([d,e,A.ji(A.b4("(\u672a\u8fbe\u5230)",23,4290984506,!1),!i)],j),B.a4,B.A),a,a,f,a,a,a,c,a)
@@ -67270,7 +67273,7 @@ f=A.aa(a,a,a,a,a,14*(i/f.a),a,a,a,a)
 i=$.c().gh()
 e=A.jD(a3,10,1)
 d=A.bt(48,48,42,42)
-i=A.aa(a,A.b4("\u5347\u7ea7\u6548\u679c\uff1a\u6bcf\u65e5\u83b7\u5f97 "+A.pC(B.d.j(A.ah(A.ao(),g).ok))+" OAS \u589e\u52a0",28,a0,!1),a,a,e,a,a,a,d,i)
+i=A.aa(a,A.b4("\u5347\u7ea7\u6548\u679c\uff1a\u6bcf\u65e5\u83b7\u5f97 "+A.pC(B.d.j(A.ah(A.an(),g).ok))+" OAS \u589e\u52a0",28,a0,!1),a,a,e,a,a,a,d,i)
 d=$.c()
 e=d.gh()
 d=d.a
@@ -67285,9 +67288,9 @@ l=n.gh()
 n=n.a
 if(n===$)A.a()
 k=A.co(B.J,B.U,a1,a2,1,1,10,0,0)
-if(B.d.j(A.ah(A.ao(),g).id)==="1")m="\u505c\u6b62\u8425\u4e1a"
-else if(B.d.j(A.ah(A.ao(),g).id)==="2")m="\u8425\u4e1a"
-else m=B.d.j(A.ah(A.ao(),g).id)==="3"?"\u7f34\u7eb3\u7f5a\u91d1":""
+if(B.d.j(A.ah(A.an(),g).id)==="1")m="\u505c\u6b62\u8425\u4e1a"
+else if(B.d.j(A.ah(A.an(),g).id)==="2")m="\u8425\u4e1a"
+else m=B.d.j(A.ah(A.an(),g).id)==="3"?"\u7f34\u7eb3\u7f5a\u91d1":""
 e=A.c6(!1,!0,A.aa(a,A.bb(A.b4(m,32,a0,!1),a,a),a,a,k,83*(l/n.a),a,a,B.b6,491*(h/e.a)),a,!0,a,a,a,a,a,a,a,a,a,new A.a7N(a7),a,a,a)
 h=$.c()
 n=h.gh()
@@ -67295,20 +67298,20 @@ h=h.a
 if(h===$)A.a()
 return A.jS(a,A.i3(B.W,a,A.bb(A.cP(A.cG(A.b([A.aa(a,A.cG(A.b([s,A.aa(a,A.cG(A.b([p,o,c,f,i,d,e,A.aa(a,a,a,a,a,32*(n/h.a),a,a,a,a)],j),B.V,B.a4,B.A),a,a,a,a,a,q,a,r)],j),B.V,B.a4,B.c2),a,a,B.dy,a,a,a,a,a4.a.a-60)],j),B.V,B.aj,B.A),(a6.a.b-60)*2,a5.a.a-60),a,a),B.L,new A.a1(1342177280),0,a,a,a,a,a,B.b_),B.aB,!1,a,a,a,a,a,a,a,a,a,a,new A.a7O(a7),a,a,a,a,a,a)},
 th(){var s,r=t.G
-A.ay(A.ah(A.ao(),r).id)
-A.ay(A.ah(A.ao(),r).k1)
-A.ay(A.ah(A.ao(),r).p2)
-s=B.d.j(A.ah(A.ao(),r).id)==="2"||!1
-if(B.d.cc(A.ah(A.ao(),r).k4)>B.d.cc(A.ah(A.ao(),r).k1))s=!1
-if(A.d1(B.d.j(A.ah(A.ao(),r).k3))>A.d1(B.d.j(A.ah(A.ao(),r).p2)))s=!1
-if(A.d1(B.d.j(A.ah(A.ao(),r).cx))>5&&A.d1(B.d.j(A.ah(A.ao(),r).cx))<8){if(A.d1(B.d.j(A.ah(A.ao(),r).cx))===5)s=A.d1(B.d.j(A.ah(A.ao(),r).R8))<3?!1:s
-if(A.d1(B.d.j(A.ah(A.ao(),r).cx))===6)s=A.d1(B.d.j(A.ah(A.ao(),r).R8))<3?!1:s
-if(A.d1(B.d.j(A.ah(A.ao(),r).cx))===7)s=A.d1(B.d.j(A.ah(A.ao(),r).R8))<3?!1:s}return s}}
+A.ay(A.ah(A.an(),r).id)
+A.ay(A.ah(A.an(),r).k1)
+A.ay(A.ah(A.an(),r).p2)
+s=B.d.j(A.ah(A.an(),r).id)==="2"||!1
+if(B.d.cc(A.ah(A.an(),r).k4)>B.d.cc(A.ah(A.an(),r).k1))s=!1
+if(A.d1(B.d.j(A.ah(A.an(),r).k3))>A.d1(B.d.j(A.ah(A.an(),r).p2)))s=!1
+if(A.d1(B.d.j(A.ah(A.an(),r).cx))>5&&A.d1(B.d.j(A.ah(A.an(),r).cx))<8){if(A.d1(B.d.j(A.ah(A.an(),r).cx))===5)s=A.d1(B.d.j(A.ah(A.an(),r).R8))<3?!1:s
+if(A.d1(B.d.j(A.ah(A.an(),r).cx))===6)s=A.d1(B.d.j(A.ah(A.an(),r).R8))<3?!1:s
+if(A.d1(B.d.j(A.ah(A.an(),r).cx))===7)s=A.d1(B.d.j(A.ah(A.an(),r).R8))<3?!1:s}return s}}
 A.a7O.prototype={
 $0(){A.eq(this.a,!1).eD("cancel")},
 $S:0}
 A.a7M.prototype={
-$0(){if(this.a.th()){if(A.ah(A.ao(),t.G).cx===8){new A.e2().dl(0,"\u5f00\u53d1\u5546\u4e0d\u80fd\u5347\u7ea7")
+$0(){if(this.a.th()){if(A.ah(A.an(),t.G).cx===8){new A.e2().dl(0,"\u5f00\u53d1\u5546\u4e0d\u80fd\u5347\u7ea7")
 return}var s=this.b
 A.eq(s,!1).eD("cancel")
 A.awR(new A.a7L(s))}else new A.e2().dl(0,"\u4e0d\u80fd\u5347\u7ea7")},
@@ -67320,12 +67323,12 @@ A.a7N.prototype={
 $0(){var s,r=this.a
 A.eq(r,!1).eD("cancel")
 s=t.G
-if(B.d.j(A.ah(A.ao(),s).id)==="1")A.awP(r)
-else if(B.d.j(A.ah(A.ao(),s).id)==="2"){A.ay("suspendTime:"+A.ah(A.ao(),s).k2)
+if(B.d.j(A.ah(A.an(),s).id)==="1")A.awP(r)
+else if(B.d.j(A.ah(A.an(),s).id)==="2"){A.ay("suspendTime:"+A.ah(A.an(),s).k2)
 A.ay("now:"+new A.dE(Date.now(),!1).j(0))
-if(B.d.j(A.ah(A.ao(),s).k2)==="0")A.aoh(r)
-else if(Date.now()<A.l9(A.ah(A.ao(),s).k2,!1).a)new A.e2().dl(0,"\u505c\u4e1a\u6574\u987f\u4e2d")
-else A.aoh(r)}else if(B.d.j(A.ah(A.ao(),s).id)==="3")A.awQ(r)},
+if(B.d.j(A.ah(A.an(),s).k2)==="0")A.aoh(r)
+else if(Date.now()<A.l9(A.ah(A.an(),s).k2,!1).a)new A.e2().dl(0,"\u505c\u4e1a\u6574\u987f\u4e2d")
+else A.aoh(r)}else if(B.d.j(A.ah(A.an(),s).id)==="3")A.awQ(r)},
 $S:0}
 A.rz.prototype={
 H(a){var s,r,q,p,o,n,m,l,k=null,j=4294967295,i=t.l,h=a.R(i).f
@@ -67404,7 +67407,7 @@ A.a_G.prototype={
 $0(){A.aoj("oas",u.K,new A.a_F(this.a))},
 $S:1}
 A.a_F.prototype={
-$0(){$.an=0
+$0(){$.ao=0
 var s=$.aY()
 s.b6()
 s.b1(!0)
@@ -67419,11 +67422,11 @@ A.awU(new A.a_L(this.a))},
 $S:1}
 A.a_L.prototype={
 $0(){A.ay("getEarnings")
-A.awW(A.eA(B.d.j(A.ah(A.ao(),t.G).cx),null)+1,!1,new A.a_K(this.a))},
+A.awW(A.eA(B.d.j(A.ah(A.an(),t.G).cx),null)+1,!1,new A.a_K(this.a))},
 $S:1}
 A.a_K.prototype={
 $0(){A.ay("getLevels \u4e0b\u4e00\u7ea7\u7b49\u7ea7\u4fe1\u606f")
-$.an=0
+$.ao=0
 var s=$.aY()
 s.b6()
 s.b1(!0)
@@ -67553,7 +67556,7 @@ q=$.c()
 p=q.gh()
 q=q.a
 if(q===$)A.a()
-return A.cP(A.a05(new A.afI(this,a),null,A.ao(),null,t.G),1624*(p/q.a),750*(r/s.a))},
+return A.cP(A.a05(new A.afI(this,a),null,A.an(),null,t.G),1624*(p/q.a),750*(r/s.a))},
 Bz(a,b,c,d,e,f){var s=null
 if(f)return A.bi(b,A.c4(B.ey,!1,e,new A.bG("images/"+c+".png"),d),s,s,a,s,s,s)
 return A.bi(b,A.c4(s,!1,e,new A.bG("images/"+c+".png"),d),s,s,a,s,s,s)},
@@ -67968,8 +67971,8 @@ $S:1}
 A.afu.prototype={
 $1(a){var s,r=this.a
 if(++r.b===3){if($.anT)A.awV()
-r.b=0}s=$.an===1
-if((s?++r.a:r.a=0)===10){if(s){$.an=0
+r.b=0}s=$.ao===1
+if((s?++r.a:r.a=0)===10){if(s){$.ao=0
 s=$.aY()
 s.b6()
 s.b1(!0)}r.a=0}},
@@ -71551,11 +71554,11 @@ A.aj9.prototype={
 $0(){var s,r,q
 if(Date.now()<A.l9(this.b.ch,!1).a){new A.e2().dl(0,A.h(A.fq("\u672a\u5230\u5f00\u552e\u65f6\u95f4")))
 return}s=t.G
-r=B.d.j(A.ah(A.ao(),s).fr)
+r=B.d.j(A.ah(A.an(),s).fr)
 q=this.a.c
 if(r==="0"){q.toString
 new A.hc().uJ(q,new A.aj6())}else{q.toString
-A.Zt(q,""+A.ah(A.ao(),s).fr,new A.aj7())}},
+A.Zt(q,""+A.ah(A.an(),s).fr,new A.aj7())}},
 $S:0}
 A.aj6.prototype={
 $1(a){A.aod(a)},
@@ -71564,7 +71567,7 @@ A.aj7.prototype={
 $1(a){var s=0,r=A.M(t.P),q
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
 while(true)switch(s){case 0:if(A.h(a)===u.E)new A.e2().dl(0,"error")
-else{q=A.ah(A.ao(),t.G)
+else{q=A.ah(A.an(),t.G)
 A.h(a)
 q.bV(0)
 A.aod(a)}return A.K(null,r)}})
@@ -71574,11 +71577,11 @@ A.aja.prototype={
 $0(){var s,r,q
 if(Date.now()<A.l9(this.b.ch,!1).a){new A.e2().dl(0,A.h(A.fq("\u672a\u5230\u5f00\u552e\u65f6\u95f4")))
 return}s=t.G
-r=B.d.j(A.ah(A.ao(),s).fr)
+r=B.d.j(A.ah(A.an(),s).fr)
 q=this.a.c
 if(r==="0"){q.toString
 new A.hc().uJ(q,new A.aj4())}else{q.toString
-A.Zt(q,""+A.ah(A.ao(),s).fr,new A.aj5())}},
+A.Zt(q,""+A.ah(A.an(),s).fr,new A.aj5())}},
 $S:0}
 A.aj4.prototype={
 $1(a){A.aoe(a)},
@@ -71587,7 +71590,7 @@ A.aj5.prototype={
 $1(a){var s=0,r=A.M(t.P),q
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
 while(true)switch(s){case 0:if(A.h(a)===u.E)new A.e2().dl(0,"error")
-else{q=A.ah(A.ao(),t.G)
+else{q=A.ah(A.an(),t.G)
 A.h(a)
 q.bV(0)
 A.aoe(a)}return A.K(null,r)}})
@@ -71596,12 +71599,12 @@ $S:5}
 A.Zv.prototype={
 $1(a){var s=0,r=A.M(t.P),q,p,o,n
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
-while(true)switch(s){case 0:$.an=1
+while(true)switch(s){case 0:$.ao=1
 A.bH("")
 s=2
 return A.a5(a.$1$1("idoBusiness",t.j),$async$$1)
 case 2:q=c
-$.an=0
+$.ao=0
 p=$.aY()
 p.b6()
 p.b1(!0)
@@ -71632,12 +71635,12 @@ $S:5}
 A.Zx.prototype={
 $1(a){var s=0,r=A.M(t.P),q=this,p,o
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
-while(true)switch(s){case 0:$.an=1
+while(true)switch(s){case 0:$.ao=1
 A.bH("")
 s=2
 return A.a5(a.$1$1("needWETHByBusiness",t._),$async$$1)
 case 2:p=c
-$.an=0
+$.ao=0
 o=$.aY()
 o.b6()
 o.b1(!0)
@@ -71649,12 +71652,12 @@ $S:5}
 A.Zy.prototype={
 $1(a){var s=0,r=A.M(t.P),q=this,p,o
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
-while(true)switch(s){case 0:$.an=1
+while(true)switch(s){case 0:$.ao=1
 A.bH("")
 s=2
 return A.a5(a.$1$1("needWETHByShop",t._),$async$$1)
 case 2:p=c
-$.an=0
+$.ao=0
 o=$.aY()
 o.b6()
 o.b1(!0)
@@ -71664,12 +71667,12 @@ return A.K(null,r)}})
 return A.L($async$$1,r)},
 $S:5}
 A.Zg.prototype={
-$0(){$.an=1
+$0(){$.ao=1
 A.bH("")
 A.cJ(B.b5,new A.Zf(),t.P)},
 $S:1}
 A.Zf.prototype={
-$0(){$.an=0
+$0(){$.ao=0
 var s=$.aY()
 s.b6()
 s.b1(!0)
@@ -71679,12 +71682,12 @@ A.Ze.prototype={
 $0(){A.a0d($.bz(),null)},
 $S:1}
 A.Zd.prototype={
-$0(){$.an=1
+$0(){$.ao=1
 A.bH("")
 A.cJ(B.b5,new A.Zc(),t.P)},
 $S:1}
 A.Zc.prototype={
-$0(){$.an=0
+$0(){$.ao=0
 var s=$.aY()
 s.b6()
 s.b1(!0)
@@ -71696,12 +71699,12 @@ $S:1}
 A.Zq.prototype={
 $1(a){var s=0,r=A.M(t.P),q=this,p,o
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
-while(true)switch(s){case 0:$.an=1
+while(true)switch(s){case 0:$.ao=1
 A.bH("")
 s=2
 return A.a5(a.$1$2("buyer",A.b([A.h(J.f0(A.cU().a))],t.s),t._),$async$$1)
 case 2:p=c
-$.an=0
+$.ao=0
 o=$.aY()
 o.b6()
 o.b1(!0)
@@ -71716,12 +71719,12 @@ $S:5}
 A.ZE.prototype={
 $1(a){var s=0,r=A.M(t.P),q,p,o,n
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
-while(true)switch(s){case 0:$.an=1
+while(true)switch(s){case 0:$.ao=1
 A.bH("")
 s=2
 return A.a5(a.$1$2("allowance",A.b([A.h(J.f0(A.cU().a)),u.c],t.s),t._),$async$$1)
 case 2:q=c
-$.an=0
+$.ao=0
 p=$.aY()
 p.b6()
 p.b1(!0)
@@ -71737,12 +71740,12 @@ p.bV(0)}return A.K(null,r)}})
 return A.L($async$$1,r)},
 $S:5}
 A.ZT.prototype={
-$0(){$.an=1
+$0(){$.ao=1
 A.bH("")
 A.cJ(B.b5,new A.ZS(),t.P)},
 $S:1}
 A.ZS.prototype={
-$0(){$.an=0
+$0(){$.ao=0
 var s=$.aY()
 s.b6()
 s.b1(!0)
@@ -71752,12 +71755,12 @@ $S:1}
 A.ZI.prototype={
 $1(a){var s=0,r=A.M(t.P),q=this,p,o
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
-while(true)switch(s){case 0:$.an=1
+while(true)switch(s){case 0:$.ao=1
 A.bH("")
 s=2
 return A.a5(a.$1$2("invites",A.b([A.h(J.f0(A.cU().a))],t.s),t.N),$async$$1)
 case 2:p=c
-$.an=0
+$.ao=0
 o=$.aY()
 o.b6()
 o.b1(!0)
@@ -71771,17 +71774,17 @@ $S:5}
 A.ZF.prototype={
 $1(a){var s=0,r=A.M(t.P),q,p
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
-while(true)switch(s){case 0:$.an=1
+while(true)switch(s){case 0:$.ao=1
 A.bH("")
 s=2
 return A.a5(a.$1$2("addressToId",A.b([A.h(J.f0(A.cU().a))],t.s),t._),$async$$1)
 case 2:q=c
-$.an=0
+$.ao=0
 p=$.aY()
 p.b6()
 p.b1(!0)
 A.ay("getAddressToId:"+("getAddressToId:myaddressToId:"+A.h(q)))
-p=A.ah(A.ao(),t.G)
+p=A.ah(A.an(),t.G)
 p.fx=q
 p.bV(0)
 return A.K(null,r)}})
@@ -71793,17 +71796,17 @@ $S:6}
 A.Zn.prototype={
 $1(a){var s=0,r=A.M(t.P),q=this,p,o
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
-while(true)switch(s){case 0:$.an=1
+while(true)switch(s){case 0:$.ao=1
 A.bH("")
 s=2
 return A.a5(a.$1$2("addressToId",[q.a],t._),$async$$1)
 case 2:p=c
-$.an=0
+$.ao=0
 o=$.aY()
 o.b6()
 o.b1(!0)
 A.ay("getAddressToId:"+("getAddressToId:addressToId:"+A.h(p)))
-o=A.ah(A.ao(),t.G)
+o=A.ah(A.an(),t.G)
 o.fr=p
 o.bV(0)
 return A.K(null,r)}})
@@ -71815,7 +71818,7 @@ var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
 while(true)switch(s){case 0:s=2
 return A.a5(a.$1$2("idToAddress",[q.a],t.N),$async$$1)
 case 2:o=c
-$.an=0
+$.ao=0
 p=$.aY()
 p.b6()
 p.b1(!0)
@@ -71827,17 +71830,17 @@ $S:5}
 A.ZB.prototype={
 $1(a){var s=0,r=A.M(t.P),q=this,p,o,n,m,l,k,j
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
-while(true)switch(s){case 0:$.an=1
+while(true)switch(s){case 0:$.ao=1
 A.bH("")
 s=2
 return A.a5(a.$1$2("staked",A.b([A.h(J.f0(A.cU().a))],t.s),t.j),$async$$1)
 case 2:p=c
-$.an=0
+$.ao=0
 o=$.aY()
 o.b6()
 o.b1(!0)
 A.ay("getMapUserInfo:"+("getMapUserInfo:staked:"+A.h(p)))
-o=A.ah(A.ao(),t.G)
+o=A.ah(A.an(),t.G)
 n=J.aF(p)
 n.i(p,0)
 m=n.i(p,1)
@@ -71860,28 +71863,28 @@ $S:5}
 A.Zw.prototype={
 $1(a){var s=0,r=A.M(t.P),q=this,p,o,n,m,l,k
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
-while(true)switch(s){case 0:$.an=1
+while(true)switch(s){case 0:$.ao=1
 A.bH("")
 s=2
 return A.a5(a.$1$2("levels",A.b([q.a],t.t),t.j),$async$$1)
 case 2:p=c
-$.an=0
+$.ao=0
 o=$.aY()
 o.b6()
 o.b1(!0)
 A.ay("getLevels:"+("getLevels:getLevels:"+A.h(p)))
 o=t.G
-n=A.ah(A.ao(),o)
+n=A.ah(A.an(),o)
 m=J.aF(p)
 l=A.d_(A.d1(J.bm(m.i(p,2))))
 k=A.d_(1e18)
 n.k3=l.cN(0)/k.cN(0)
-A.ah(A.ao(),o).k4=m.i(p,10)
+A.ah(A.an(),o).k4=m.i(p,10)
 n=A.d_(A.d1(J.bm(m.i(p,0))))
 m=A.d_(1e18)
 n=n.cN(0)
 m=m.cN(0)
-o=A.ah(A.ao(),o)
+o=A.ah(A.an(),o)
 m=n/m*36e3
 A.ay("NextProduction:"+A.h(m))
 o.ok=m
@@ -71890,12 +71893,12 @@ return A.K(null,r)}})
 return A.L($async$$1,r)},
 $S:5}
 A.ZN.prototype={
-$0(){$.an=1
+$0(){$.ao=1
 A.bH("")
 A.cJ(B.Gf,new A.ZM(this.a),t.P)},
 $S:1}
 A.ZM.prototype={
-$0(){$.an=0
+$0(){$.ao=0
 var s=$.aY()
 s.b6()
 s.b1(!0)
@@ -71907,7 +71910,7 @@ var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
 while(true)switch(s){case 0:s=2
 return A.a5(a.$1$2("balanceOf",A.b([A.h(J.f0(A.cU().a))],t.s),t._),$async$$1)
 case 2:o=c
-$.an=0
+$.ao=0
 p=$.aY()
 p.b6()
 p.b1(!0)
@@ -71925,7 +71928,7 @@ var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
 while(true)switch(s){case 0:s=2
 return A.a5(a.$1$2("tokenOfOwnerByIndex",A.b([A.h(J.f0(A.cU().a)),0],t.J),t._),$async$$1)
 case 2:o=c
-$.an=0
+$.ao=0
 p=$.aY()
 p.b6()
 p.b1(!0)
@@ -71937,12 +71940,12 @@ $S:5}
 A.ZA.prototype={
 $1(a){var s=0,r=A.M(t.P),q,p,o,n
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
-while(true)switch(s){case 0:$.an=1
+while(true)switch(s){case 0:$.ao=1
 A.bH("")
 s=2
 return A.a5(a.$1$2("reward",A.b([A.h(J.f0(A.cU().a))],t.s),t._),$async$$1)
 case 2:q=c
-$.an=0
+$.ao=0
 p=$.aY()
 p.b6()
 p.b1(!0)
@@ -71951,7 +71954,7 @@ p=A.d_(A.d1(J.bm(q)))
 o=A.d_(1e18)
 p=p.cN(0)
 o=o.cN(0)
-n=A.ah(A.ao(),t.G)
+n=A.ah(A.an(),t.G)
 n.cy=p/o
 n.bV(0)
 return A.K(null,r)}})
@@ -71968,7 +71971,7 @@ q=A.d_(A.d1(J.bm(n)))
 p=A.d_(1e18)
 q=q.cN(0)
 p=p.cN(0)
-o=A.ah(A.ao(),t.G)
+o=A.ah(A.an(),t.G)
 o.db=q/p
 o.bV(0)
 return A.K(null,r)}})
@@ -71977,7 +71980,7 @@ $S:5}
 A.Zs.prototype={
 $1(a){var s=0,r=A.M(t.P),q=this,p,o,n,m
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
-while(true)switch(s){case 0:$.an=1
+while(true)switch(s){case 0:$.ao=1
 A.bH("")
 s=2
 return A.a5(a.$1$2("earnings",A.b([A.h(J.f0(A.cU().a))],t.s),t._),$async$$1)
@@ -71987,10 +71990,10 @@ o=A.d_(A.d1(J.bm(p)))
 n=A.d_(1e18)
 o=o.cN(0)
 n=n.cN(0)
-m=A.ah(A.ao(),t.G)
+m=A.ah(A.an(),t.G)
 m.db=o/n
 m.bV(0)
-$.an=0
+$.ao=0
 m=$.aY()
 m.b6()
 m.b1(!0)
@@ -72001,12 +72004,12 @@ $S:5}
 A.ZC.prototype={
 $1(a){var s=0,r=A.M(t.P),q=this,p,o,n
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
-while(true)switch(s){case 0:$.an=1
+while(true)switch(s){case 0:$.ao=1
 A.bH("")
 s=2
 return A.a5(a.$1$2("balanceOf",A.b([A.h(J.f0(A.cU().a))],t.s),t._),$async$$1)
 case 2:p=c
-$.an=0
+$.ao=0
 o=$.aY()
 o.b6()
 o.b1(!0)
@@ -72015,7 +72018,7 @@ o=A.d_(A.d1(J.bm(p)))
 n=A.d_(1e18)
 o=o.cN(0)
 n=n.cN(0)
-A.ah(A.ao(),t.G).p2=o/n
+A.ah(A.an(),t.G).p2=o/n
 q.a.$0()
 return A.K(null,r)}})
 return A.L($async$$1,r)},
@@ -72023,22 +72026,22 @@ $S:5}
 A.ZG.prototype={
 $1(a){var s=0,r=A.M(t.P),q=this,p,o,n
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
-while(true)switch(s){case 0:$.an=1
+while(true)switch(s){case 0:$.ao=1
 A.bH("")
 s=2
 return A.a5(a.$1$2("myShare",A.b([A.h(J.f0(A.cU().a))],t.s),t.j),$async$$1)
 case 2:p=c
-$.an=0
+$.ao=0
 o=$.aY()
 o.b6()
 o.b1(!0)
 A.ay("getmyshareinfo:"+("getmyshareinfo:myShare:"+A.h(p)))
 o=t.G
 n=J.aF(p)
-A.ah(A.ao(),o).ax=n.i(p,0)
-A.ah(A.ao(),o).ay=n.i(p,1)
-A.ah(A.ao(),o).ch=n.i(p,2)
-A.ah(A.ao(),o).CW=n.i(p,3)
+A.ah(A.an(),o).ax=n.i(p,0)
+A.ah(A.an(),o).ay=n.i(p,1)
+A.ah(A.an(),o).ch=n.i(p,2)
+A.ah(A.an(),o).CW=n.i(p,3)
 q.a.$0()
 return A.K(null,r)}})
 return A.L($async$$1,r)},
@@ -72046,12 +72049,12 @@ $S:5}
 A.Zz.prototype={
 $1(a){var s=0,r=A.M(t.P),q=this,p,o,n
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
-while(true)switch(s){case 0:$.an=1
+while(true)switch(s){case 0:$.ao=1
 A.bH("")
 s=2
 return A.a5(a.$1$2("balanceOf",A.b(["0x000000000000000000000000000000000000dEaD"],t.s),t._),$async$$1)
 case 2:p=c
-$.an=0
+$.ao=0
 o=$.aY()
 o.b6()
 o.b1(!0)
@@ -72060,7 +72063,7 @@ o=A.d_(A.d1(J.bm(p)))
 n=A.d_(1e18)
 o=o.cN(0)
 n=n.cN(0)
-A.ah(A.ao(),t.G).p1=o/n
+A.ah(A.an(),t.G).p1=o/n
 q.a.$0()
 return A.K(null,r)}})
 return A.L($async$$1,r)},
@@ -72068,31 +72071,31 @@ $S:5}
 A.ZH.prototype={
 $1(a){var s=0,r=A.M(t.P),q=this,p,o,n
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
-while(true)switch(s){case 0:$.an=1
+while(true)switch(s){case 0:$.ao=1
 A.bH("")
 p=q.a
 s=2
 return A.a5(a.$1$2("userTeam",[A.h(J.f0(A.cU().a)),p],t._),$async$$1)
 case 2:o=c
-$.an=0
+$.ao=0
 n=$.aY()
 n.b6()
 n.b1(!0)
 A.ay("getuserteam:"+("getuserteam:level:"+A.h(p)))
 A.ay("getuserteam:"+("getuserteam:userTeam:"+A.h(o)))
-A.ah(A.ao(),t.G).R8=o
+A.ah(A.an(),t.G).R8=o
 return A.K(null,r)}})
 return A.L($async$$1,r)},
 $S:5}
 A.ZO.prototype={
 $1(a){var s=0,r=A.M(t.P),q=this,p,o,n,m
 var $async$$1=A.N(function(b,c){if(b===1)return A.J(c,r)
-while(true)switch(s){case 0:$.an=1
+while(true)switch(s){case 0:$.ao=1
 A.bH("")
 s=2
 return A.a5(a.$1$2("rewardTeam",A.b([A.h(J.f0(A.cU().a)),q.a],t.s),t._),$async$$1)
 case 2:p=c
-$.an=0
+$.ao=0
 o=$.aY()
 o.b6()
 o.b1(!0)
@@ -72103,77 +72106,77 @@ if(o==="usdt"){n=A.d_(A.d1(J.bm(p)))
 m=A.d_(1e18)
 n=n.cN(0)
 m=m.cN(0)
-A.ah(A.ao(),t.G).p3=n/m}if(o==="oas"){o=A.d_(A.d1(J.bm(p)))
+A.ah(A.an(),t.G).p3=n/m}if(o==="oas"){o=A.d_(A.d1(J.bm(p)))
 n=A.d_(1e18)
 o=o.cN(0)
 n=n.cN(0)
-A.ah(A.ao(),t.G).p4=o/n}q.c.$0()
+A.ah(A.an(),t.G).p4=o/n}q.c.$0()
 return A.K(null,r)}})
 return A.L($async$$1,r)},
 $S:5}
 A.Zk.prototype={
-$0(){$.an=1
+$0(){$.ao=1
 A.bH("")
 A.cJ(B.b5,new A.Zj(this.a),t.P)},
 $S:1}
 A.Zj.prototype={
 $0(){A.mN(this.a,null)
-$.an=0
+$.ao=0
 var s=$.aY()
 s.b6()
 s.b1(!0)},
 $S:1}
 A.ZL.prototype={
-$0(){$.an=1
+$0(){$.ao=1
 A.bH("")
 A.cJ(B.b5,new A.ZK(this.a),t.P)},
 $S:1}
 A.ZK.prototype={
 $0(){A.mN(this.a,null)
-$.an=0
+$.ao=0
 var s=$.aY()
 s.b6()
 s.b1(!0)},
 $S:1}
 A.Zi.prototype={
-$0(){$.an=1
+$0(){$.ao=1
 A.bH("")
 A.cJ(B.b5,new A.Zh(this.a),t.P)},
 $S:1}
 A.Zh.prototype={
 $0(){A.aof()
 A.mN(this.a,null)
-$.an=0
+$.ao=0
 var s=$.aY()
 s.b6()
 s.b1(!0)},
 $S:1}
 A.Zm.prototype={
-$0(){$.an=1
+$0(){$.ao=1
 A.bH("")
 A.cJ(B.b5,new A.Zl(this.a),t.P)},
 $S:1}
 A.Zl.prototype={
-$0(){$.an=0
+$0(){$.ao=0
 var s=$.aY()
 s.b6()
 s.b1(!0)
 this.a.$0()},
 $S:1}
 A.ZR.prototype={
-$0(){A.ay("level:;;;;"+A.ah(A.ao(),t.G).cx)
+$0(){A.ay("level:;;;;"+A.ah(A.an(),t.G).cx)
 var s=this.a
 A.mN(s,new A.ZQ(s))},
 $S:1}
 A.ZQ.prototype={
 $0(){var s=this.a
-new A.hc().Mh(s,A.eA(""+A.ah(A.ao(),t.G).cx,null)+1)
-$.an=1
+new A.hc().Mh(s,A.eA(""+A.ah(A.an(),t.G).cx,null)+1)
+$.ao=1
 A.bH("")
 A.cJ(B.b5,new A.ZP(s),t.P)},
 $S:1}
 A.ZP.prototype={
-$0(){$.an=0
+$0(){$.ao=0
 var s=$.aY()
 s.b6()
 s.b1(!0)
@@ -78124,7 +78127,7 @@ $.aD2=null
 $.dz=0
 $.kL=0
 $.aiG=0
-$.an=0
+$.ao=0
 $.Vn=A.b([],t.RT)
 $.avT=!0
 $.aw6=!1
