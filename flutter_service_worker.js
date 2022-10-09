@@ -167,13 +167,13 @@ const RESOURCES = {
 "icons/loading.gif": "950265cdf65d152bf3c7d8bb87b2a117",
 "icons/logo.jpg": "0c95019134d8fd2304e70cdb3bc3c94d",
 "icons/logo.png": "6f283c04a641e912c013e4f7af67979a",
-"index.html": "975252ad90b0d644f9a681abe8a8733a",
-"/": "975252ad90b0d644f9a681abe8a8733a",
+"index.html": "5d85dc86f52fd673593a0f452fe0d225",
+"/": "5d85dc86f52fd673593a0f452fe0d225",
 "logo.png": "6f283c04a641e912c013e4f7af67979a",
-"main.dart.js": "ac66e65f8c635f140aa287651788a91d",
+"main.dart.js": "9294b338e0494b813d94dc2eb97911c2",
 "manifest.json": "dddf31a43c502bc2f0cd396990d78abb",
 "version.json": "2df2fecd4c6b17d5f3aa900da53738d0",
-"web.zip": "0685a0288d3fad92d38c7989000d3056"
+"web.zip": "0bf323798d74c474bed0175205ec6fec"
 };
 
 // The application shell files that are downloaded before a service worker can

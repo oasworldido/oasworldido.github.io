@@ -71871,7 +71871,7 @@ o.id=l
 o.k1=k
 o.k2=j
 o.bS(0)
-if(J.i(J.bm(n.i(p,0)),"0")||J.i(J.bm(n.i(p,1)),"0"))new A.hd().Md(q.a)
+if(J.i(J.bm(n.i(p,0)),"0")&&J.i(J.bm(n.i(p,1)),"0"))new A.hd().Md(q.a)
 else{A.ax2(n.i(p,1))
 $.anV=!0}$.ao=0
 o=$.b_()
