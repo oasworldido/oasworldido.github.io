@@ -165,12 +165,15 @@ const RESOURCES = {
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/loading.gif": "950265cdf65d152bf3c7d8bb87b2a117",
+"icons/loading2.gif": "856a3ff504fe484af67fd3bc5280f1dc",
+"icons/loading3.gif": "6cfe0fe172b4173aea27106468c06832",
+"icons/loading_bg.png": "4e2371c961c1857ce88687e117353635",
 "icons/logo.jpg": "0c95019134d8fd2304e70cdb3bc3c94d",
 "icons/logo.png": "6f283c04a641e912c013e4f7af67979a",
-"index.html": "1e0f6fb83c7a8d3df437a209398f9991",
-"/": "1e0f6fb83c7a8d3df437a209398f9991",
+"index.html": "43103a6d9146ba694df00ac6780edfd5",
+"/": "43103a6d9146ba694df00ac6780edfd5",
 "logo.png": "6f283c04a641e912c013e4f7af67979a",
-"main.dart.js": "8c19b4c77de3733d3e46084f938b0fee",
+"main.dart.js": "533954bbeb53a20a5460acbab7151d8f",
 "manifest.json": "dddf31a43c502bc2f0cd396990d78abb",
 "version.json": "2df2fecd4c6b17d5f3aa900da53738d0"
 };
