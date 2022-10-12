@@ -67284,12 +67284,12 @@ if(o===$)A.a()
 o=A.aa(a,a,a,a,a,20*(f/o.a),a,a,a,a)
 f=A.jE(a3,10,1)
 c=A.bt(48,48,42,10)
-if(B.d.j(A.a9(A.ae(),g).cx)==="1")n="\u5347\u7ea7\u6761\u4ef6\uff1a"+A.a9(A.ae(),g).k2+" OAS+"+A.a9(A.ae(),g).k3+"\u4e2a\u95e8\u5e97\u4e4b\u661f"
-else if(B.d.j(A.a9(A.ae(),g).cx)==="2")n="\u5347\u7ea7\u6761\u4ef6\uff1a"+A.a9(A.ae(),g).k2+" OAS+"+A.a9(A.ae(),g).k3+"\u4e2a\u95e8\u5e97\u4e4b\u661f"
-else if(B.d.j(A.a9(A.ae(),g).cx)==="3")n="\u5347\u7ea7\u6761\u4ef6\uff1a"+A.a9(A.ae(),g).k2+" OAS+"+A.a9(A.ae(),g).k3+"\u4e2a\u95e8\u5e97\u4e4b\u661f"
-else if(B.d.j(A.a9(A.ae(),g).cx)==="4")n="\u5347\u7ea7\u6761\u4ef6\uff1a"+A.a9(A.ae(),g).k2+" OAS+"+A.a9(A.ae(),g).k3+"\u4e2a\u95e8\u5e97\u4e4b\u661f"
-else if(B.d.j(A.a9(A.ae(),g).cx)==="5")n="\u5347\u7ea7\u6761\u4ef6\uff1a"+A.a9(A.ae(),g).k2+" OAS+ 3E1"
-else if(B.d.j(A.a9(A.ae(),g).cx)==="6")n="\u5347\u7ea7\u6761\u4ef6\uff1a"+A.a9(A.ae(),g).k2+" OAS+ 3E2"
+if(B.d.j(A.a9(A.ae(),g).cx)==="1")n="\u5347\u7ea7\u6761\u4ef6\uff1a"+A.a9(A.ae(),g).k2+" OAS\n+"+A.a9(A.ae(),g).k3+"\u4e2a\u95e8\u5e97\u4e4b\u661f"
+else if(B.d.j(A.a9(A.ae(),g).cx)==="2")n="\u5347\u7ea7\u6761\u4ef6\uff1a"+A.a9(A.ae(),g).k2+" OAS\n+"+A.a9(A.ae(),g).k3+"\u4e2a\u95e8\u5e97\u4e4b\u661f"
+else if(B.d.j(A.a9(A.ae(),g).cx)==="3")n="\u5347\u7ea7\u6761\u4ef6\uff1a"+A.a9(A.ae(),g).k2+" OAS\n+"+A.a9(A.ae(),g).k3+"\u4e2a\u95e8\u5e97\u4e4b\u661f"
+else if(B.d.j(A.a9(A.ae(),g).cx)==="4")n="\u5347\u7ea7\u6761\u4ef6\uff1a"+A.a9(A.ae(),g).k2+" OAS\n+"+A.a9(A.ae(),g).k3+"\u4e2a\u95e8\u5e97\u4e4b\u661f"
+else if(B.d.j(A.a9(A.ae(),g).cx)==="5")n="\u5347\u7ea7\u6761\u4ef6\uff1a"+A.a9(A.ae(),g).k2+" OAS\n+ 3E1"
+else if(B.d.j(A.a9(A.ae(),g).cx)==="6")n="\u5347\u7ea7\u6761\u4ef6\uff1a"+A.a9(A.ae(),g).k2+" OAS\n+ 3E2"
 else if(B.d.j(A.a9(A.ae(),g).cx)==="7")n="\u5347\u7ea7\u6761\u4ef6\uff1a"+A.a9(A.ae(),g).k2+" OAS"
 else{B.d.j(A.a9(A.ae(),g).cx)
 n=""}n=A.b4(n,28,a0,!1)
@@ -67304,7 +67304,7 @@ f=A.aa(a,a,a,a,a,14*(l/f.a),a,a,a,a)
 l=$.c().gi()
 m=A.jE(a3,10,1)
 n=A.bt(48,48,42,42)
-l=A.aa(a,A.b4("\u5347\u7ea7\u6548\u679c\uff1a\u6bcf\u65e5\u83b7\u5f97 "+A.pD(B.d.j(A.a9(A.ae(),g).k4))+" OAS \u589e\u52a0",28,a0,!1),a,a,m,a,a,a,n,l)
+l=A.aa(a,A.b4("\u5347\u7ea7\u6548\u679c\uff1a\u6bcf\u65e5"+A.pD(B.d.j(A.a9(A.ae(),g).k4))+"OAS\u589e\u52a0",28,a0,!1),a,a,m,a,a,a,n,l)
 n=$.c()
 m=n.gi()
 n=n.a
