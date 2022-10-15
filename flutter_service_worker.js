@@ -167,10 +167,10 @@ const RESOURCES = {
 "icons/loading.gif": "950265cdf65d152bf3c7d8bb87b2a117",
 "icons/logo.jpg": "0c95019134d8fd2304e70cdb3bc3c94d",
 "icons/logo.png": "6f283c04a641e912c013e4f7af67979a",
-"index.html": "3ec38b90ffdfe8d29542364e90103fd1",
-"/": "3ec38b90ffdfe8d29542364e90103fd1",
+"index.html": "469077ef66ecc202c701d03ceb5baada",
+"/": "469077ef66ecc202c701d03ceb5baada",
 "logo.png": "6f283c04a641e912c013e4f7af67979a",
-"main.dart.js": "edbb50d2555e8576c8a21fb26759931d",
+"main.dart.js": "a69eff20be75778cca316b1554802211",
 "manifest.json": "dddf31a43c502bc2f0cd396990d78abb",
 "version.json": "2df2fecd4c6b17d5f3aa900da53738d0"
 };
